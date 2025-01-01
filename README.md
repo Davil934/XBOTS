@@ -1,6 +1,6 @@
-<h1 align="center"><b>[⚡] 𝙏𝙝𝙚𝙓𝘽𝙤𝙩𝙨 [⚡]</b></h1>
+<h1 align="center"><b>[⚡] Davil bots [⚡]</b></h1>
 
-<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
+<h4 align="center"> 𝐀 owner Davil</h4>
 
 <p align="center"><a href="https://t.me/PyXen"><img src="https://te.legra.ph/file/07d39b85c6cea32f15259.jpg" width="400"></a></p>
 
